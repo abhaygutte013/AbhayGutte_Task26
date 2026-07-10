@@ -22,7 +22,7 @@ npm install
 
 npm run dev
 
-4. Open the local URL shown in the terminal (usually http://localhost:5173).
+4. Open the local URL shown in the terminal (usually http://localhost:5174).
 
 ## Output
 
